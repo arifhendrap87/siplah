@@ -1,0 +1,580 @@
+[
+    {
+        "id": "828137",
+        "name": "30 Cerita Tata Krama",
+        "sku": null,
+        "slug": "828137-30-cerita-tata-krama",
+        "stock": "50",
+        "tag": [
+            "buku"
+        ],
+        "mall": {
+            "name": "Aenifat",
+            "slug": "aenifat",
+            "city": "Kab. Cilacap",
+            "province": "Prov. Jawa Tengah"
+        },
+        "manufacturer": {
+            "name": "Kemdikbud RI",
+            "slug": "kemdikbud-ri"
+        },
+        "price": {
+            "primary": "42",
+            "primaryCurrencyFormat": "Rp42",
+            "zone": []
+        },
+        "images": [
+            "https://cdn.eurekabookhouse.co.id/ebh/product/all/30_ttakrama.jpg"
+        ],
+        "badges": [],
+        "rating": "0.0",
+        "review": 0,
+        "category": [
+            {
+                "title": "Buku Referensi",
+                "url": "buku-referensi"
+            }
+        ]
+    },
+    {
+        "id": "797393",
+        "name": "ADAT MUDA MENANGGUNG RINDU",
+        "sku": null,
+        "slug": "797393-adat-muda-menanggung-rindu",
+        "stock": "100",
+        "tag": [
+            "buku"
+        ],
+        "mall": {
+            "name": "BALAI PUSTAKA",
+            "slug": "balai-pustaka",
+            "city": "Kota Jakarta Timur",
+            "province": "Prov. D.K.I Jakarta"
+        },
+        "manufacturer": {
+            "name": "Kemdikbud RI",
+            "slug": "kemdikbud-ri"
+        },
+        "price": {
+            "primary": "6819",
+            "primaryCurrencyFormat": "Rp6.819",
+            "zone": [
+                {
+                    "price": "6819",
+                    "priceCurrencyFormat": "Rp6.819"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                }
+            ]
+        },
+        "images": [
+            "https://cdn.eurekabookhouse.co.id/ebh/product/all/Adat_muda_menanggung_rindu8.png"
+        ],
+        "badges": [
+            "het"
+        ],
+        "rating": "0.0",
+        "review": 0,
+        "category": [
+            {
+                "title": "Buku Referensi",
+                "url": "buku-referensi"
+            }
+        ]
+    },
+    {
+        "id": "789911",
+        "name": "100 IDE UNTUK GURU - MENGEMBANGKAN KETERAMPILAN BERPIKIR",
+        "sku": null,
+        "slug": "789911-100-ide-untuk-guru---mengembangkan-keterampilan-berpikir",
+        "stock": "1500",
+        "tag": [
+            "buku"
+        ],
+        "mall": {
+            "name": "CV. MUTIARA CEMERLANG",
+            "slug": "mutiara-cemerlang",
+            "city": "Kab. Semarang",
+            "province": "Prov. Jawa Tengah"
+        },
+        "manufacturer": {
+            "name": "Kemdikbud RI",
+            "slug": "kemdikbud-ri"
+        },
+        "price": {
+            "primary": "108000",
+            "primaryCurrencyFormat": "Rp108.000",
+            "zone": [
+                {
+                    "price": "21389",
+                    "priceCurrencyFormat": "Rp21.389"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                }
+            ]
+        },
+        "images": [
+            "https://cdn.eurekabookhouse.co.id/ebh/product/all/1__100_IDE_UNTUK_GURU_PAUD_AKTV_MENARIK17.JPG"
+        ],
+        "badges": [
+            "new",
+            "het"
+        ],
+        "rating": "0.0",
+        "review": 0,
+        "category": [
+            {
+                "title": "Buku Referensi",
+                "url": "buku-referensi"
+            }
+        ]
+    },
+    {
+        "id": "787077",
+        "name": "ATLAS TEMATIK KABUPATEN BALANGAN",
+        "sku": null,
+        "slug": "787077-atlas-tematik-kabupaten-balangan",
+        "stock": "100",
+        "tag": [
+            "buku"
+        ],
+        "mall": {
+            "name": "Pro Solution",
+            "slug": "perkasa-solution",
+            "city": "Kota Jakarta Utara",
+            "province": "Prov. D.K.I Jakarta"
+        },
+        "manufacturer": {
+            "name": "Kemdikbud RI",
+            "slug": "kemdikbud-ri"
+        },
+        "price": {
+            "primary": "15900",
+            "primaryCurrencyFormat": "Rp15.900",
+            "zone": [
+                {
+                    "price": "15900",
+                    "priceCurrencyFormat": "Rp15.900"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                }
+            ]
+        },
+        "images": [
+            "https://cdn.eurekabookhouse.co.id/ebh/product/all/ATLAS_TEMATIK_KABUPATEN_BALANGAN.jpg"
+        ],
+        "badges": [
+            "het"
+        ],
+        "rating": "0.0",
+        "review": 0,
+        "category": [
+            {
+                "title": "Buku Referensi",
+                "url": "buku-referensi"
+            }
+        ]
+    },
+    {
+        "id": "787075",
+        "name": "ANEKA TARI ANAK-ANAK",
+        "sku": null,
+        "slug": "787075-aneka-tari-anak-anak",
+        "stock": "100",
+        "tag": [
+            "buku"
+        ],
+        "mall": {
+            "name": "Pro Solution",
+            "slug": "perkasa-solution",
+            "city": "Kota Jakarta Utara",
+            "province": "Prov. D.K.I Jakarta"
+        },
+        "manufacturer": {
+            "name": "Kemdikbud RI",
+            "slug": "kemdikbud-ri"
+        },
+        "price": {
+            "primary": "8000",
+            "primaryCurrencyFormat": "Rp8.000",
+            "zone": [
+                {
+                    "price": "8000",
+                    "priceCurrencyFormat": "Rp8.000"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                }
+            ]
+        },
+        "images": [
+            "https://cdn.eurekabookhouse.co.id/ebh/product/all/ANEKA_TARI_ANAK-ANAK.jpg"
+        ],
+        "badges": [
+            "het"
+        ],
+        "rating": "0.0",
+        "review": 0,
+        "category": [
+            {
+                "title": "Buku Referensi",
+                "url": "buku-referensi"
+            }
+        ]
+    },
+    {
+        "id": "787069",
+        "name": "AKU PINTAR MATEMATIKA 2 (PENGUKURAN, GEOMETRI, STATISTIKA, DAN PELUANG)",
+        "sku": null,
+        "slug": "787069-aku-pintar-matematika-2--pengukuran--geometri--statistika--dan-peluang-",
+        "stock": "100",
+        "tag": [
+            "buku"
+        ],
+        "mall": {
+            "name": "Pro Solution",
+            "slug": "perkasa-solution",
+            "city": "Kota Jakarta Utara",
+            "province": "Prov. D.K.I Jakarta"
+        },
+        "manufacturer": {
+            "name": "Kemdikbud RI",
+            "slug": "kemdikbud-ri"
+        },
+        "price": {
+            "primary": "6400",
+            "primaryCurrencyFormat": "Rp6.400",
+            "zone": [
+                {
+                    "price": "6400",
+                    "priceCurrencyFormat": "Rp6.400"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                }
+            ]
+        },
+        "images": [
+            "https://cdn.eurekabookhouse.co.id/ebh/product/all/AKU_PINTAR_MATEMATIKA_2_(PENGUKURAN,_GEOMETRI,_STATISTIKA,_DAN_PELUANG).jpg"
+        ],
+        "badges": [
+            "het"
+        ],
+        "rating": "0.0",
+        "review": 0,
+        "category": [
+            {
+                "title": "Buku Referensi",
+                "url": "buku-referensi"
+            }
+        ]
+    },
+    {
+        "id": "787067",
+        "name": "AKU PINTAR MATEMATIKA 1 (BILANGAN DAN ALJABAR)",
+        "sku": null,
+        "slug": "787067-aku-pintar-matematika-1--bilangan-dan-aljabar-",
+        "stock": "100",
+        "tag": [
+            "buku"
+        ],
+        "mall": {
+            "name": "Pro Solution",
+            "slug": "perkasa-solution",
+            "city": "Kota Jakarta Utara",
+            "province": "Prov. D.K.I Jakarta"
+        },
+        "manufacturer": {
+            "name": "Kemdikbud RI",
+            "slug": "kemdikbud-ri"
+        },
+        "price": {
+            "primary": "6400",
+            "primaryCurrencyFormat": "Rp6.400",
+            "zone": [
+                {
+                    "price": "6400",
+                    "priceCurrencyFormat": "Rp6.400"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                }
+            ]
+        },
+        "images": [
+            "https://cdn.eurekabookhouse.co.id/ebh/product/all/AKU_PINTAR_MATEMATIKA_1_(BILANGAN_DAN_ALJABAR).jpg"
+        ],
+        "badges": [
+            "het"
+        ],
+        "rating": "0.0",
+        "review": 0,
+        "category": [
+            {
+                "title": "Buku Referensi",
+                "url": "buku-referensi"
+            }
+        ]
+    },
+    {
+        "id": "787063",
+        "name": "AKIBAT BEREBUT",
+        "sku": null,
+        "slug": "787063-akibat-berebut",
+        "stock": "100",
+        "tag": [
+            "buku"
+        ],
+        "mall": {
+            "name": "Pro Solution",
+            "slug": "perkasa-solution",
+            "city": "Kota Jakarta Utara",
+            "province": "Prov. D.K.I Jakarta"
+        },
+        "manufacturer": {
+            "name": "Kemdikbud RI",
+            "slug": "kemdikbud-ri"
+        },
+        "price": {
+            "primary": "6700",
+            "primaryCurrencyFormat": "Rp6.700",
+            "zone": [
+                {
+                    "price": "6700",
+                    "priceCurrencyFormat": "Rp6.700"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                }
+            ]
+        },
+        "images": [
+            "https://cdn.eurekabookhouse.co.id/ebh/product/all/Akibat_berebut.jpg"
+        ],
+        "badges": [
+            "het"
+        ],
+        "rating": "0.0",
+        "review": 0,
+        "category": [
+            {
+                "title": "Buku Referensi",
+                "url": "buku-referensi"
+            }
+        ]
+    },
+    {
+        "id": "787059",
+        "name": "ADA APA DI BALIK SEGITIGA",
+        "sku": null,
+        "slug": "787059-ada-apa-di-balik-segitiga",
+        "stock": "100",
+        "tag": [
+            "buku"
+        ],
+        "mall": {
+            "name": "Pro Solution",
+            "slug": "perkasa-solution",
+            "city": "Kota Jakarta Utara",
+            "province": "Prov. D.K.I Jakarta"
+        },
+        "manufacturer": {
+            "name": "Kemdikbud RI",
+            "slug": "kemdikbud-ri"
+        },
+        "price": {
+            "primary": "5300",
+            "primaryCurrencyFormat": "Rp5.300",
+            "zone": [
+                {
+                    "price": "5300",
+                    "priceCurrencyFormat": "Rp5.300"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                }
+            ]
+        },
+        "images": [
+            "https://cdn.eurekabookhouse.co.id/ebh/product/all/ADA_APA_DI_BALIK_SEGITIGA.jpg"
+        ],
+        "badges": [
+            "het"
+        ],
+        "rating": "0.0",
+        "review": 0,
+        "category": [
+            {
+                "title": "Buku Referensi",
+                "url": "buku-referensi"
+            }
+        ]
+    },
+    {
+        "id": "787057",
+        "name": "ADA APA DI BALIK LINGKARAN",
+        "sku": null,
+        "slug": "787057-ada-apa-di-balik-lingkaran",
+        "stock": "100",
+        "tag": [
+            "buku"
+        ],
+        "mall": {
+            "name": "Pro Solution",
+            "slug": "perkasa-solution",
+            "city": "Kota Jakarta Utara",
+            "province": "Prov. D.K.I Jakarta"
+        },
+        "manufacturer": {
+            "name": "Kemdikbud RI",
+            "slug": "kemdikbud-ri"
+        },
+        "price": {
+            "primary": "5300",
+            "primaryCurrencyFormat": "Rp5.300",
+            "zone": [
+                {
+                    "price": "5300",
+                    "priceCurrencyFormat": "Rp5.300"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                },
+                {
+                    "price": "0",
+                    "priceCurrencyFormat": "Rp0"
+                }
+            ]
+        },
+        "images": [
+            "https://cdn.eurekabookhouse.co.id/ebh/product/all/ADA_APA_DI_BALIK_LINGKARAN.jpg"
+        ],
+        "badges": [
+            "het"
+        ],
+        "rating": "0.0",
+        "review": 0,
+        "category": [
+            {
+                "title": "Buku Referensi",
+                "url": "buku-referensi"
+            }
+        ]
+    }
+]

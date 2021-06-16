@@ -1,0 +1,128 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.siplaheurekapembeli"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.54.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/99426ca88225e547a3706fb126f04f19/flipper-0.54.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.54.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/99426ca88225e547a3706fb126f04f19/flipper-0.54.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Include required permissions for Google Maps API to run. -->
+14-->[:react-native-maps] /Users/masterdiskon/Documents/GitHub/siplah/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+14-->[:react-native-maps] /Users/masterdiskon/Documents/GitHub/siplah/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/f91ae5bfd9d4e60b4e407deb89d1a900/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/f91ae5bfd9d4e60b4e407deb89d1a900/play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/f91ae5bfd9d4e60b4e407deb89d1a900/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/f91ae5bfd9d4e60b4e407deb89d1a900/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/f91ae5bfd9d4e60b4e407deb89d1a900/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+20
+21    <application
+21-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:6:5-25:19
+22        android:name="com.siplaheurekapembeli.MainApplication"
+22-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:7:7-38
+23        android:allowBackup="false"
+23-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:11:7-34
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/ceea6ee4f64c4f4631dbf6b52b5573b7/core-1.1.0/AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:9:7-41
+27        android:label="@string/app_name"
+27-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:8:7-39
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:10:7-52
+29        android:theme="@style/AppTheme"
+29-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:12:7-38
+30        android:usesCleartextTraffic="true" >
+30-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/debug/AndroidManifest.xml:7:18-53
+31        <activity
+31-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:13:7-23:18
+32            android:name="com.siplaheurekapembeli.MainActivity"
+32-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:14:9-37
+33            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+33-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:16:9-86
+34            android:label="@string/app_name"
+34-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:15:9-41
+35            android:launchMode="singleTask"
+35-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:17:9-40
+36            android:windowSoftInputMode="adjustResize" >
+36-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:18:9-51
+37            <intent-filter>
+37-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:19:9-22:25
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:20:13-65
+38-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:20:21-62
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:21:13-73
+40-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:21:23-70
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+43-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:24:7-84
+43-->/Users/masterdiskon/Documents/GitHub/siplah/android/app/src/main/AndroidManifest.xml:24:17-81
+44
+45        <provider
+45-->[:react-native-webview] /Users/masterdiskon/Documents/GitHub/siplah/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+46            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+46-->[:react-native-webview] /Users/masterdiskon/Documents/GitHub/siplah/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+47            android:authorities="com.siplaheurekapembeli.fileprovider"
+47-->[:react-native-webview] /Users/masterdiskon/Documents/GitHub/siplah/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+48            android:exported="false"
+48-->[:react-native-webview] /Users/masterdiskon/Documents/GitHub/siplah/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+49            android:grantUriPermissions="true" >
+49-->[:react-native-webview] /Users/masterdiskon/Documents/GitHub/siplah/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+50            <meta-data
+50-->[:react-native-webview] /Users/masterdiskon/Documents/GitHub/siplah/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+51                android:name="android.support.FILE_PROVIDER_PATHS"
+51-->[:react-native-webview] /Users/masterdiskon/Documents/GitHub/siplah/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+52                android:resource="@xml/file_provider_paths" />
+52-->[:react-native-webview] /Users/masterdiskon/Documents/GitHub/siplah/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+53        </provider>
+54
+55        <meta-data
+55-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/49d66c8302c1d0cc2825aecea1811c8b/okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+56            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+56-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/49d66c8302c1d0cc2825aecea1811c8b/okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+57            android:value="GlideModule" /> <!-- Needs to be explicitly declared on P+ -->
+57-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/49d66c8302c1d0cc2825aecea1811c8b/okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+58        <uses-library
+58-->[com.google.android.gms:play-services-maps:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/f91ae5bfd9d4e60b4e407deb89d1a900/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+59            android:name="org.apache.http.legacy"
+59-->[com.google.android.gms:play-services-maps:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/f91ae5bfd9d4e60b4e407deb89d1a900/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+60            android:required="false" />
+60-->[com.google.android.gms:play-services-maps:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/f91ae5bfd9d4e60b4e407deb89d1a900/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+61
+62        <activity
+62-->[com.google.android.gms:play-services-base:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/8d4c82291c5db5a4eb38da721761dcad/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+63            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+63-->[com.google.android.gms:play-services-base:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/8d4c82291c5db5a4eb38da721761dcad/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+64            android:exported="false"
+64-->[com.google.android.gms:play-services-base:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/8d4c82291c5db5a4eb38da721761dcad/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+65            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+65-->[com.google.android.gms:play-services-base:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/8d4c82291c5db5a4eb38da721761dcad/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+66
+67        <meta-data
+67-->[com.google.android.gms:play-services-basement:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/679e463954f8fe2ff1c84676bab0a28f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+68            android:name="com.google.android.gms.version"
+68-->[com.google.android.gms:play-services-basement:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/679e463954f8fe2ff1c84676bab0a28f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+69            android:value="@integer/google_play_services_version" />
+69-->[com.google.android.gms:play-services-basement:17.0.0] /Users/masterdiskon/.gradle/caches/transforms-2/files-2.1/679e463954f8fe2ff1c84676bab0a28f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+70    </application>
+71
+72</manifest>

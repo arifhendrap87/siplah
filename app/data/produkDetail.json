@@ -1,0 +1,78 @@
+{
+    "id": "797393",
+    "name": "ADAT MUDA MENANGGUNG RINDU",
+    "sku": null,
+    "slug": "797393-adat-muda-menanggung-rindu",
+    "stock": "100",
+    "description": "",
+    "tag": [
+      "buku"
+    ],
+    "viewed": "0",
+    "specification": {
+      "code": "",
+      "unitType": "pcs",
+      "weight": "0.300",
+      "length": "1.00",
+      "width": "1.00",
+      "height": "1.00",
+      "minimumOrder": "1",
+      "skKelulusan": "fc94d98b-b12d-4004-97ee-e8b94e5c8fe7"
+    },
+    "mall": {
+      "name": "BALAI PUSTAKA",
+      "slug": "balai-pustaka",
+      "city": "Kota Jakarta Timur",
+      "province": "Prov. D.K.I Jakarta"
+    },
+    "manufacturer": {
+      "name": "Kemdikbud RI",
+      "slug": "kemdikbud-ri"
+    },
+    "price": {
+      "primary": "6819",
+      "primaryCurrencyFormat": "Rp6.819",
+      "zone": [
+        {
+          "price": "6819",
+          "priceCurrencyFormat": "Rp6.819"
+        },
+        {
+          "price": "0",
+          "priceCurrencyFormat": "Rp0"
+        },
+        {
+          "price": "0",
+          "priceCurrencyFormat": "Rp0"
+        },
+        {
+          "price": "0",
+          "priceCurrencyFormat": "Rp0"
+        },
+        {
+          "price": "0",
+          "priceCurrencyFormat": "Rp0"
+        }
+      ]
+    },
+    "images": [
+      "https://cdn.eurekabookhouse.co.id/ebh/product/all/Adat_muda_menanggung_rindu8.png"
+    ],
+    "badges": [
+      "het"
+    ],
+    "rating": "0.0",
+    "review": {
+      "page": 1,
+      "limit": 10,
+      "total": 0,
+      "pages": 0,
+      "items": []
+    },
+    "category": [
+      {
+        "title": "Buku Referensi",
+        "url": "buku-referensi"
+      }
+    ]
+  }

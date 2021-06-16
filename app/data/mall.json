@@ -1,0 +1,386 @@
+[
+    {
+        "id": "13681",
+        "code": "ML6834",
+        "type": "nonpkp",
+        "name": "cv.testaja",
+        "email": "testaja1@gmail.com",
+        "slug": "cv-testaja",
+        "inActive": true,
+        "companyName": "cv.testaja",
+        "brandName": "cv.testaja",
+        "totalProduct": 3,
+        "business": {
+            "type": "Individu",
+            "category": "koperasi"
+        },
+        "image": {
+            "primary": "https://siplah.eurekabookhouse.co.id/assets/front/images/placelogo_placeholder.jpg",
+            "header": "https://siplah.eurekabookhouse.co.id/assets/front/images/banner/banner-mall.jpg"
+        },
+        "pic": {
+            "name": "arif",
+            "position": "marketing",
+            "email": "testaja1@gmail.com",
+            "phone": "9886868"
+        },
+        "location": {
+            "address": "jakarta",
+            "province": "Prov. D.K.I Jakarta",
+            "city": "Kota Jakarta Timur",
+            "zone": [
+                "Ciracas"
+            ],
+            "subdistrict": "Ciracas",
+            "postalCode": "13540",
+            "country": "Indonesia",
+            "latitude": "-6.3305757",
+            "longitude": "106.8668003"
+        }
+    },
+    {
+        "id": "13679",
+        "code": "ML6833",
+        "type": "nonpkp",
+        "name": "pt.sukaria",
+        "email": "arifhendrap87@gmail.com",
+        "slug": "pt-sukaria",
+        "inActive": true,
+        "companyName": "pt.sukaria",
+        "brandName": "pt.sukaria",
+        "totalProduct": 0,
+        "business": {
+            "type": "Individu",
+            "category": "koperasi"
+        },
+        "image": {
+            "primary": "https://siplah.eurekabookhouse.co.id/assets/front/images/placelogo_placeholder.jpg",
+            "header": "https://siplah.eurekabookhouse.co.id/assets/front/images/banner/banner-mall.jpg"
+        },
+        "pic": {
+            "name": "arif",
+            "position": "marketing",
+            "email": "arifhendrap87@gmail.com",
+            "phone": "8797687"
+        },
+        "location": {
+            "address": "jakarta",
+            "province": "Prov. D.K.I Jakarta",
+            "city": "Kota Jakarta Barat",
+            "zone": [
+                "Kebon Jeruk"
+            ],
+            "subdistrict": "Kelapa Dua",
+            "postalCode": "13540",
+            "country": "Indonesia",
+            "latitude": "-6.3305757",
+            "longitude": "106.8668003"
+        }
+    },
+    {
+        "id": "13605",
+        "code": "ML6796",
+        "type": "pkp",
+        "name": "PT GARUDA EDUKASI MANDIRI",
+        "email": "pt.garudaedukasimandiri@gmail.com",
+        "slug": "pt-garuda-edukasi-mandiri",
+        "inActive": true,
+        "companyName": "PT GARUDA EDUKASI MANDIRI",
+        "brandName": "PT GARUDA EDUKASI MANDIRI",
+        "totalProduct": 20,
+        "business": {
+            "type": "PT",
+            "category": "kecil"
+        },
+        "image": {
+            "primary": "https://cdn.eurekabookhouse.co.id/ebh/mall/PT-GARUDA-EDUKASI-MANDIRI_icon_mall22_07_05.JPG",
+            "header": "https://cdn.eurekabookhouse.co.id/ebh/mall/PT-GARUDA-EDUKASI-MANDIRI_header_mall10_20_12.jpg"
+        },
+        "pic": {
+            "name": "ARI",
+            "position": "GENERAL MANAGER",
+            "email": "pt.garudaedukasimandiri@gmail.com",
+            "phone": "081519442080654"
+        },
+        "location": {
+            "address": "RUKO GREEN GARDEN BLOK A14 NOMOR 36",
+            "province": "Prov. D.K.I Jakarta",
+            "city": "Kota Jakarta Barat",
+            "zone": [
+                "Kebon Jeruk"
+            ],
+            "subdistrict": "Kedoya Utara",
+            "postalCode": "11520",
+            "country": "Indonesia",
+            "latitude": "-6.1646091",
+            "longitude": "106.7626912"
+        }
+    },
+    {
+        "id": "13561",
+        "code": "ML6774",
+        "type": "pkp",
+        "name": "PT EMZ CITRA SOLUSINDO",
+        "email": "emzcitrasolusindo@gmail.com",
+        "slug": "pt-emz-citra-solusindo",
+        "inActive": true,
+        "companyName": "PT EMZ CITRA SOLUSINDO",
+        "brandName": "PT EMZ CITRA SOLUSINDO",
+        "totalProduct": 117,
+        "business": {
+            "type": "PT",
+            "category": "mikro"
+        },
+        "image": {
+            "primary": "https://cdn.eurekabookhouse.co.id/ebh/mall/PT-EMZ-CITRA-SOLUSINDO_icon_mall11_09_22.png",
+            "header": "https://cdn.eurekabookhouse.co.id/ebh/mall/PT-EMZ-CITRA-SOLUSINDO_header_mall11_08_37.png"
+        },
+        "pic": {
+            "name": "STEPHANIE",
+            "position": "GENERAL MANAGER",
+            "email": "emzcitrasolusindo@gmail.com",
+            "phone": "02159645318"
+        },
+        "location": {
+            "address": "SEASON CITY LANTAI LG BLOK C17 NO.3, JL. PROF. DR. LATUMENTEN RT. 13 RW. 1",
+            "province": "Prov. D.K.I Jakarta",
+            "city": "Kota Jakarta Barat",
+            "zone": [],
+            "subdistrict": "Jembatan Besi",
+            "postalCode": "11320",
+            "country": "Indonesia",
+            "latitude": "-6.1536561",
+            "longitude": "106.7960714"
+        }
+    },
+    {
+        "id": "13115",
+        "code": "ML6551",
+        "type": "pkp",
+        "name": "Era Krisna",
+        "email": "wardhani_krisna@yahoo.com",
+        "slug": "era-krisna",
+        "inActive": true,
+        "companyName": "Era Krisna",
+        "brandName": "Era Krisna",
+        "totalProduct": 0,
+        "business": {
+            "type": "CV",
+            "category": "mikro"
+        },
+        "image": {
+            "primary": "https://siplah.eurekabookhouse.co.id/assets/front/images/placelogo_placeholder.jpg",
+            "header": "https://siplah.eurekabookhouse.co.id/assets/front/images/banner/banner-mall.jpg"
+        },
+        "pic": {
+            "name": "ERAWARDHANI KRISNAYANTI",
+            "position": "owner",
+            "email": "wardhani_krisna@yahoo.com",
+            "phone": "085852208007"
+        },
+        "location": {
+            "address": "kertajaya indah regency b 12",
+            "province": "Prov. Jawa Timur",
+            "city": "Kota Surabaya",
+            "zone": [],
+            "subdistrict": "Gebang Putih",
+            "postalCode": "60117",
+            "country": "Indonesia",
+            "latitude": "-7.2855040",
+            "longitude": "112.7875896"
+        }
+    },
+    {
+        "id": "13113",
+        "code": "ML6550",
+        "type": "nonpkp",
+        "name": "SYANDANA PROJECT",
+        "email": "syandanaproject@gmail.com",
+        "slug": "syandana-project",
+        "inActive": true,
+        "companyName": "SYANDANA PROJECT",
+        "brandName": "SYANDANA PROJECT",
+        "totalProduct": 0,
+        "business": {
+            "type": "Individu",
+            "category": "mikro"
+        },
+        "image": {
+            "primary": "https://cdn.eurekabookhouse.co.id/ebh/mall/SYANDANA-PROJECT_icon_mall15_37_58.png",
+            "header": "https://siplah.eurekabookhouse.co.id/assets/front/images/banner/banner-mall.jpg"
+        },
+        "pic": {
+            "name": "DHANNY YULINAR",
+            "position": "PEMILIK",
+            "email": "syandanaproject@gmail.com",
+            "phone": "081803185561"
+        },
+        "location": {
+            "address": "PERUM ITS JL. TEKNIK INDUSTRI D-19",
+            "province": "Prov. Jawa Timur",
+            "city": "Kota Surabaya",
+            "zone": [],
+            "subdistrict": "Keputih",
+            "postalCode": "60111",
+            "country": "Indonesia",
+            "latitude": "-7.2900421",
+            "longitude": "112.7932347"
+        }
+    },
+    {
+        "id": "13111",
+        "code": "ML6549",
+        "type": "nonpkp",
+        "name": "eNeS",
+        "email": "bundaraama@gmail.com",
+        "slug": "enes",
+        "inActive": true,
+        "companyName": "eNeS",
+        "brandName": "eNeS",
+        "totalProduct": 0,
+        "business": {
+            "type": "Individu",
+            "category": "mikro"
+        },
+        "image": {
+            "primary": "https://siplah.eurekabookhouse.co.id/assets/front/images/placelogo_placeholder.jpg",
+            "header": "https://siplah.eurekabookhouse.co.id/assets/front/images/banner/banner-mall.jpg"
+        },
+        "pic": {
+            "name": "Nia Sulaeha",
+            "position": "Owner",
+            "email": "bundaraama@gmail.com",
+            "phone": "087854411964"
+        },
+        "location": {
+            "address": "Jl. Jemur Ngawinan I no 63",
+            "province": "Prov. Jawa Timur",
+            "city": "Kota Surabaya",
+            "zone": [
+                "Wonocolo"
+            ],
+            "subdistrict": "Jemur Wonosari",
+            "postalCode": "60237",
+            "country": "Indonesia",
+            "latitude": "-7.3299596",
+            "longitude": "112.7319358"
+        }
+    },
+    {
+        "id": "12891",
+        "code": "ML6440",
+        "type": "nonpkp",
+        "name": "Toko tes Angga",
+        "email": "testokoangga@gmail.com",
+        "slug": "toko-tes-angga",
+        "inActive": true,
+        "companyName": "Toko tes Angga",
+        "brandName": "Toko tes Angga",
+        "totalProduct": 0,
+        "business": {
+            "type": "CV",
+            "category": "kecil"
+        },
+        "image": {
+            "primary": "https://siplah.eurekabookhouse.co.id/assets/front/images/placelogo_placeholder.jpg",
+            "header": "https://siplah.eurekabookhouse.co.id/assets/front/images/banner/banner-mall.jpg"
+        },
+        "pic": {
+            "name": "Angga",
+            "position": "Direktur",
+            "email": "testokoangga@gmail.com",
+            "phone": "081273890"
+        },
+        "location": {
+            "address": "Toko tes Angga kalibata",
+            "province": "Prov. D.K.I Jakarta",
+            "city": "Kota Jakarta Selatan",
+            "zone": [
+                "Pasar Minggu"
+            ],
+            "subdistrict": "Ragunan",
+            "postalCode": "10000",
+            "country": "Indonesia",
+            "latitude": "-6.2605473",
+            "longitude": "106.8362034"
+        }
+    },
+    {
+        "id": "12065",
+        "code": "ML6028",
+        "type": "nonpkp",
+        "name": "Toko Siplah Tes",
+        "email": "tokosiplahtes@gmail.com",
+        "slug": "toko-siplah-tes",
+        "inActive": true,
+        "companyName": "Toko Siplah Tes",
+        "brandName": "Toko Siplah Tes",
+        "totalProduct": 2,
+        "business": {
+            "type": "Individu",
+            "category": "koperasi"
+        },
+        "image": {
+            "primary": "https://cdn.eurekabookhouse.co.id/ebh/mall/Toko-Siplah-Tes_icon_mall13_34_26.jpg",
+            "header": "https://siplah.eurekabookhouse.co.id/assets/front/images/banner/banner-mall.jpg"
+        },
+        "pic": {
+            "name": "Toko SIPLah Tes",
+            "position": "Direktur",
+            "email": "tokosiplahtes@gmail.com",
+            "phone": "10000"
+        },
+        "location": {
+            "address": "Jalan toko siplah tes",
+            "province": "Prov. DI Yogyakarta",
+            "city": "Kota Yogyakarta",
+            "zone": [
+                "Kotagede"
+            ],
+            "subdistrict": "Purbayan",
+            "postalCode": "10000",
+            "country": "Indonesia",
+            "latitude": "-7.7604486",
+            "longitude": "110.3638375"
+        }
+    },
+    {
+        "id": "10777",
+        "code": "ML5387",
+        "type": "pkp",
+        "name": "PT Mitra Mandiri Maju",
+        "email": "eproc@mitramandirimaju.com",
+        "slug": "pt-mitra-mandiri-maju",
+        "inActive": true,
+        "companyName": "PT MITRA MANDIRI MAJU",
+        "brandName": "PT MITRA MANDIRI MAJU",
+        "totalProduct": 48,
+        "business": {
+            "type": "PT",
+            "category": "mikro"
+        },
+        "image": {
+            "primary": "https://cdn.eurekabookhouse.co.id/ebh/mall/PT-DWI-INTI-PUTRA_icon_mall13_24_13.jpeg",
+            "header": "https://cdn.eurekabookhouse.co.id/ebh/mall/PT-Mitra-Mandiri-Maju_header_mall10_07_01.jpg"
+        },
+        "pic": {
+            "name": "Yuli",
+            "position": "Sales",
+            "email": "eproc@mitramandirimaju.com",
+            "phone": "031-5313394"
+        },
+        "location": {
+            "address": "Jalan Embong Malang, Kedungdoro, Surabaya City, East Java, Indonesia",
+            "province": "Prov. Jawa Timur",
+            "city": "Kota Surabaya",
+            "zone": [
+                "Tegalsari"
+            ],
+            "subdistrict": "",
+            "postalCode": "60621",
+            "country": "Indonesia",
+            "latitude": "-7.2600275",
+            "longitude": "112.7365908"
+        }
+    }
+]
